@@ -1,4 +1,5 @@
 Bit Jelölések ("ansota")
+------------------------
 Hibakódok és Bit Jelölések
 Firmware frissítés hibái (alsó 8 bit):
 
